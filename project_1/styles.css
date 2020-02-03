@@ -1,0 +1,63 @@
+.main {
+    background-color: aliceblue;
+}
+.title {
+    background-color: aquamarine;
+    border-radius: 50px;
+    margin-left: 75;
+    margin-right: 75;
+    margin-top: 50;
+    margin-bottom: 50;
+
+}
+.title h1 {
+    text-align: center;
+}
+.about {
+    margin-top: 20;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 1%;
+}
+.about p {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    margin-right: auto;
+
+}
+.iguazu{
+    height: 500px; 
+    width: 1000px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.steps {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.steps {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    margin-left: 15%;
+    margin-right: 8%;
+    text-align: justify;
+}
+.photos {
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-flex;
+}
+.final p {
+    margin-left: 15%;
+    margin-right: 8%;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.last_photos {
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-flex;
+}
