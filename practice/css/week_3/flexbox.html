@@ -9,7 +9,7 @@
             background-color: hotpink;
             height: 500px;
             display: flex;
-            flex-direction: row-reverse;
+            flex-direction: row;
         }
         .flexbox-items {
             background-color: lightpink;
@@ -17,26 +17,34 @@
             flex-shrink: 1;
             margin: 20px;
         }
+        #first-item {
+            order: 2;
+        }
         #special-item {
             flex-shrink: 2;
+            order: 1;
+        }
+        #third-item {
+            order: 0;
         }
         #last-item {
-            flex-grow: 3;
+            order: 3;
         }
+
     </style>
 </head>
 <body>
     <div id ="my-flexbox">
-        <div class="flexbox-items">
+        <div id ="first-item" class="flexbox-items">
             <p>Hello there, how are you? 1</p>
         </div>
         <div id="special-item" class="flexbox-items">
             <p>Hello there, how are you? 2</p>
         </div>
-        <div class="flexbox-items">
+        <div id="third-item" class="flexbox-items">
             <p>Hello there, how are you? 3</p>
         </div>
-        <div class="flexbox-items">
+        <div id="last-item" class="flexbox-items">
             <p>Hello there, how are you? 4</p>
         </div>
 </body>
