@@ -1,0 +1,7 @@
+body {
+    background-color: red;
+}
+header, main, footer {
+    width: 900px;
+    background-color: white;
+}

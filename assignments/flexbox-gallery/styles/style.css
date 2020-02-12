@@ -1,0 +1,30 @@
+body {
+    background: pink;
+}
+div#flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: flex-start; 
+    
+}
+figure {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    width: 202px;
+}
+
+figure > img {
+    border: solid black 1px;
+    width: 200px;
+    border-radius: 95px;
+}
+figcaption {
+    font-size: 24px;
+    text-align: center;
+    margin: 10px;
+    color: darkslategray;
+    font-weight: 700;
+    font-style: italic;
+}

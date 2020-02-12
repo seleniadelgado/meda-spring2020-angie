@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+header, main, footer {
+    width: 900px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 36px;
+}
+header, main {
+    border-bottom: black 5px solid;
+}

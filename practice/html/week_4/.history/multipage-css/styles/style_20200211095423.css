@@ -1,0 +1,71 @@
+body {
+    background-color: #5cdb95;
+    color: black;
+}
+header, main, footer {
+    width: 900px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 36px;
+    font-family: cursive;
+}
+header {
+    padding-right: 0;
+    width: 950px;
+}
+header, main {
+    border-bottom: black 5px solid;
+}
+header h1 {
+    font-family: "Zapfino";
+    font-size: "48px";
+    text-align: center;
+    color: #05386B;
+    line-height: 84px;
+}
+#logo {
+    float: left;
+}
+#little-container{
+    margin-left: 200px;
+}
+nav ul li {
+    display: inline-block;
+    background-color: #8EEaAF;
+    padding: 12px;
+    margin-top: 25px;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li {
+    background-color: darkgreen;
+}
+nav ul {
+    text-align: right;
+}
+nav ul li a {
+    text-decoration: none;
+}
+nav ul li a:link {
+    color: white;
+}
+
+nav ul li a:visited{
+    color: white;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+nav ul li a:active {
+    color: darkgray;
+}
+
+/*
+/*why do anchors have a specific sudo class order.
+Why this order exists.
+Bonus: Event-bubbling in HTML.
+*/

@@ -1,0 +1,18 @@
+table {
+    font-family: "Monaco";
+    width: 650px;
+    font-size: 12px;
+}
+thead tr th {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+tbody > tr {
+    background-color: lightgrey;
+}
+tbody > tr > th {
+    background-color: darkgrey;
+    text-align: center;
+}
