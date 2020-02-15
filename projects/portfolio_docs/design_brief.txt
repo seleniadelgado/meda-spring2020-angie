@@ -1,0 +1,27 @@
+1. (A) The choices of colors for my portfolio are white, black and mustard yellow (#f6ac00). For the body text I will use black, the reason behind it is that it is an easy color to read. The mustard yellow I am going to use for links to urls of my previous work and for links leading into that. I like this color because it reminds me of fall, which is my favorite season. I wanted to add a little bit of my personality to it. I am also using white as the main color for the body because I like to keep things simple and clean, so this will also be my background color.
+2. (B) Only one image of me for portfolio, and three logos plus two social media SVG icons.  
+3. (C)Site map included with each title and contents of each page beneath it.
+4. (D) ABOUT text: 
+“Hi there, I’m Angie Delgado. I am a front end engineer and I love all things HTML and CSS. I attended San Francisco State University and majored in linguistics. My love for new languages and travel is what inspires me to work on making beautiful websites with accessibility to all.
+I went into software engineering because I have a passion for making projects that are available to people of all capabilities. Accessibility is very important to me and I incorporated in any design I make. When I am not coding, you can find me cooking, travelling or catching up on my blog.”
+WORK: Will have names of my previous projects and logos I have yet to design. One of them is this for my AirBnb Clone. Will not include much text Only images and links.
+   
+This one for printf: 
+  
+
+And I am still in the process of making the perfect logo for my shell project, but for now this is the idea of it.
+   
+This page will also include a resume download button.
+Contacts: I will have a sentence that reads 
+“Have an idea, project or problem let’s chat.”
+With a form asking for name, email, subject and message below and a submit button.
+   5. (E) https://benadam.me/ 
+So far this is the only website I’ve been truly intrigued by, so much that I want to use his colors. I love the header with the white background, the main with the photo and blurb about him to links of his job and the very simple footer. I think this is my favorite one so far. 
+https://koome.vip/
+This is one of the fancier sites I’ve visited. It’s by one of my good friend’s page and I really love it. However, I feel that there are too many links. I think the header is nice. His header is a video. His main hero page is also very nice as it has his about him in it. And I specially love his footer with his copyright and social media links. Everything about it matches his personality which I think is very fun.
+
+http://findmatthew.com
+I love this portfolio, and it has always been one of my favorites because it is so fun to look at. The header is mesmerizing. I am not a fan of the main, with the percentage ratings, I think that looks tacky. I like the projects section and I hope to one day incorporate my blogs. The footer is probably my favorite part because it takes you to the top. I hop to make my portfolio a one page layout like this, one day.
+
+   6. (F) Wireframe done and attached.
+   7. (G) Resume attached.
