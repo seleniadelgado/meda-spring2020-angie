@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans&display=swap');
+body {
+    width: 100%;
+}
+header, footer {
+    background-color: #f6ac00;
+    padding: 50px;
+    font-size: 26px;
+    font-family: 'Fjalla One', Arial, Helvetica, sans-serif;
+    line-height: normal;
+    /* font-family: 'Noto Sans', ;*/
+}
+/* navbar starts*/
+#myName a {
+    float: left;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding-left: 10%;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10%;
+    float: right;
+    text-decoration: none;
+ }
+
+ li {
+    display: inline;
+    text-transform: lowercase;
+ }
+ li a {
+    text-decoration: none;
+    color: white;
+ }
+ /*nav styles ends */
+
+/* About me starts */
+.aboutMe {
+    display: flex;
+}
+.image {
+    align-items: flex-start;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    filter: grayscale(100%);
+}
+.aboutMe #aboutMeParagraph {
+    align-items: center;
+    margin-top: 17%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-family: 'Noto Sans';
+
+}
+/* about me ends */
+/*resume and work starts */
+.work {
+    display: flex;
+    margin-bottom: 15%;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.work p {
+    font-family: Noto Sans;
+    font-weight: 800;
+    font-size: 36px;
+    margin-top: 5%;
+    margin-left: 6%;
+    margin-bottom: 40%;
+}
+.work .projects {
+    display: flex;
+    justify-content: space-around;
+}
+.work img {
+    width: 300px;
+    height: 300px;
+    border: solid whitesmoke;
+    margin-bottom: 20%;
+}
+.work .resume a {
+    text-decoration: none;
+    font-family: 'Fjalla One';
+    font-size: 40px;
+    color: black;
+    margin-left: 6%;
+}
+/* resume and work ends */
+/* contact starts */
+.contact_header {
+    font-family: 'Fjalla';
+}
+#contact-flexbox {
+    display: flex;
+}
+
+#contact-flexbox div:first-child {
+    flex-grow: 3;
+}
+
+#contact-flexbox div:last-child {
+    flex-grow: 1;
+    background-color: ;
+
+}
+#contact-form {
+    width: 400px;
+    margin: 20px;
+}
+
+#contact-form label {
+    font-size: 24px;
+}
+
+#contact-form input {
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: black;
+    padding-left: 11px;
+    background-color: white;
+}
+.form-buttons {
+    margin: 20px;
+    font-size: 18px;
+    width: 360px;
+
+}
+#contact-form textarea {
+    border-radius: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 11px;
+    font-size: 18px;
+}
+#additional-info {
+    line-height: 40px;
+    color: black;
+}
+#additional-info dd a {
+    text-decoration: none;
+}
+/*contact end*/
+
+ /* Footer style starts */
+ footer {
+    color: white;
+    text-shadow: black;
+    margin: 0 auto;
+ }
+ .copyright {
+    text-align: center;
+    font-size: 15px;
+ }
+ .social {
+    text-align: right;
+    margin-bottom: 20px;
+    font-size: 40px;
+ }
+/* footer ends */

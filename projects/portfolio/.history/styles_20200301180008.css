@@ -1,0 +1,11 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+header .menu ul {
+    display: flex;
+    list-style-type: none;
+}

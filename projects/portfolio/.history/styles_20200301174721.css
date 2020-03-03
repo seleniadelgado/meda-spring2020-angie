@@ -1,0 +1,11 @@
+.navBar .menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+.navBar .menu li {
+    display: inline;
+    float: right;
+    justify-content: space-evenly;
+}

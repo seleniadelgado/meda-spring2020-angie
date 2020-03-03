@@ -1,0 +1,14 @@
+
+header .navBar .menu ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+header .navBar .menu li {
+
+    display: flex;
+    float: right;
+    justify-content: space-evenly;
+}

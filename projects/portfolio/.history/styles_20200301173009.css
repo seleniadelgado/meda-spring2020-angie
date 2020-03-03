@@ -1,0 +1,7 @@
+.navBar .menu ul {
+    list-style-type: none;
+    display: block;
+}
+body {
+    background-color: green;
+}

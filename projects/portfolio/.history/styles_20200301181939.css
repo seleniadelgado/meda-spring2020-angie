@@ -1,0 +1,15 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+ul {
+    list-style: none;
+}
+#menu {
+    margin: 10px;
+    width: 900px;
+    font-family: sans-serif;
+}

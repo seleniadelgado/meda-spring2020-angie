@@ -1,0 +1,26 @@
+header, main, footer {
+    width: 90%;
+    background-color: #f6ac00;
+    boder: 
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+.navBar {
+    display: inline;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-decoration: none;
+ }
+ 
+ li {
+    display: inline;
+ }
+ li a {
+    text-decoration: none;
+ }
