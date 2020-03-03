@@ -1,0 +1,19 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-decoration: none;
+ }
+ 
+ li {
+    display: inline;
+ }

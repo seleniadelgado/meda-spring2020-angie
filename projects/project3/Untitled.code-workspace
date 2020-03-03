@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "project3",
+			"path": "."
+		},
+		{
+			"path": "/Users/angiedelgado/Downloads/fontawesome-free-5.12.1-web/webfonts"
+		},
+		{
+			"path": "/Users/angiedelgado/Downloads/fontawesome-free-5.12.1-web/css"
+		}
+	],
+    "settings": {
+        "workbench.colorCustomizations": {
+            "activityBar.background": "#07304C",
+            "titleBar.activeBackground": "#0A436A",
+            "titleBar.activeForeground": "#F8FCFE"
+        }
+    }
+}

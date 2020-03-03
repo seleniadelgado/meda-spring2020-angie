@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans&display=swap');
+
+header, main, footer {
+    width: 95%;
+    background-color: #f6ac00;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+    font-family: 'Fjalla One', Arial, Helvetica, sans-serif;
+    line-height: normal;
+    /* font-family: 'Noto Sans', ;*/
+}
+#myName {
+    float: left;
+    color: white;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10%;
+    float: right;
+    text-decoration: none;
+ }
+
+ li {
+    display: inline;
+ }
+ li a {
+    text-decoration: none;
+    color: white;
+ }
+ footer {
+    padding-bottom: 10%;
+ }
+ .copyright {
+    display: flex;
+    top: 50%;
+    left: 50%;
+    float: left;
+    color: white;
+
+ }
+ .social {
+    display: flex;
+    float: right;
+    margin-top: 0;
+    align-content: end;
+    color: white;
+ }

@@ -1,0 +1,22 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+header .menu ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+header .menu li {
+    list-style-type: none;
+    float: left;
+    justify-content: space-evenly;
+}
+header .menu li a {
+    text-align: center;
+}

@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans&display=swap');
+body {
+    width: 100%;
+}
+header, footer {
+    background-color: #f6ac00;
+    padding: 50px;
+    font-size: 26px;
+    font-family: 'Fjalla One', Arial, Helvetica, sans-serif;
+    line-height: normal;
+    /* font-family: 'Noto Sans', ;*/
+}
+/* navbar starts*/
+#myName {
+    float: left;
+    color: white;
+    text-transform: uppercase;
+    padding-left: 10%;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10%;
+    float: right;
+    text-decoration: none;
+ }
+
+ li {
+    display: inline;
+    text-transform: lowercase;
+ }
+ li a {
+    text-decoration: none;
+    color: white;
+ }
+ /*nav styles ends */
+
+/* About me starts */
+.aboutMe {
+    display: flex;
+}
+.image {
+    align-items: flex-start;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    filter: grayscale(100%);
+}
+.aboutMe #aboutMeParagraph {
+    align-items: center;
+    margin-top: 17%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-family: 'Noto Sans';
+
+}
+/* about me ends */
+.work {
+    display: flex;
+    margin-bottom: 15%;
+}
+.work p {
+    font-family: Noto Sans;
+    font-weight: 800;
+    font-size: 36px;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+.work img {
+    margin-top: 10%;
+    width: 300px;
+    height: 300px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+ /* Footer style starts */
+ footer {
+    color: white;
+    text-shadow: black;
+    margin: 0 auto;
+ }
+ .copyright {
+    text-align: center;
+    font-size: 15px;
+ }
+ .social {
+    text-align: right;
+    margin-bottom: 20px;
+    font-size: 40px;
+    
+
+ }
+/* footer ends */

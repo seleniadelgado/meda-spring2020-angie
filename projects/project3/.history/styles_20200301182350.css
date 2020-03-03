@@ -1,0 +1,33 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+ul {
+    list-style: none;
+    float: left;
+}
+#menu {
+    margin: 10px;
+    width: 900px;
+    font-family: sans-serif;
+}
+#menu li {
+    display: block;
+    width: 120px;
+    margin-left: 2px;
+    border: 1px solid #000;
+}
+#menu a { 
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    background-color: #fff;
+    color: #009;
+}
+#menu a:hover {
+    background-color: #009;
+    color: #fff;
+}

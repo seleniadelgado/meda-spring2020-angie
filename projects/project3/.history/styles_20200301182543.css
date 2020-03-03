@@ -1,0 +1,23 @@
+header, main, footer {
+    width: 900px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+ }
+ .active {
+    background-color: gray;
+    color: white;
+ }
+ li {
+    border-bottom: 1px solid #555;
+    display: inline;
+ }

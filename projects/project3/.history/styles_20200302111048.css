@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans&display=swap');
+
+header, main, footer {
+    width: 95%;
+    background-color: #f6ac00;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 26px;
+    font-family: 'Fjalla One', Arial, Helvetica, sans-serif;
+    line-height: normal;
+    /* font-family: 'Noto Sans', ;*/
+}
+/* navbar starts*/
+#myName {
+    float: left;
+    color: white;
+    text-transform: uppercase;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10%;
+    float: right;
+    text-decoration: none;
+ }
+
+ li {
+    display: inline;
+    text-transform: lowercase;
+ }
+ li a {
+    text-decoration: none;
+    color: white;
+ }
+ /*nav styles ends */
+
+
+/* About me starts */
+.aboutMe {
+    float: left;
+    height: 100;
+    margin: 0;
+
+    
+}
+#aboutMeParagraph {
+}
+}
+
+
+/* about me ends */
+ /* Footer style starts */
+ footer {
+    color: white;
+    text-shadow: black;
+ }
+ .copyright {
+    text-align: center;
+    font-size: 15px;
+ }
+ .social {
+    text-align: right;
+    margin-bottom: 20px;
+ }
+/* footer ends */

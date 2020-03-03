@@ -1,0 +1,7 @@
+.navBar .menu {
+    list-style-type: none;
+    display: inline;
+}
+body {
+    background-color: green;
+}
